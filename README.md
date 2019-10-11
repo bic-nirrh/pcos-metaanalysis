@@ -3,7 +3,7 @@
 R scripts used in PCOS meta-analysis.
 The description of the scripts is as follows.
 
-AffyOldLimma.R-
+# AffyOldLimma.R-
 The script is used for CEL file analysis from the old microarray platforms i.e. the platforms without \_ST\_* in the chip name.
 
 AffySTLimma.R-
