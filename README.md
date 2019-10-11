@@ -12,5 +12,5 @@ The script is used for CEL file analysis from the new microarray platforms i.e. 
 **Cytoscape-EM.R**-  
 The script used for Enrichment Map Analysis in Cystoscape.
 
-**GSVA_HeatMap.R**-  
+**GSVA-HeatMap.R**-  
 The script used for disease geneset enrichment analysis.
